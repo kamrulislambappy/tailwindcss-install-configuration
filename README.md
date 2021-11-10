@@ -59,7 +59,7 @@ Install Tailwindcss Visual Studio Code Extension.
 ```bash
  Tailwind CSS IntelliSense
 ```
-![Logo](https://github.com/kamrulislambappy/tailwindcss-install-configuration/blob/main/vs%20code%20tailwindcss%20extensions.png?raw=true)
+![Logo](https://github.com/kamrulislambappy/image/blob/main/vs%20code%20tailwindcss%20extensions.png?raw=true)
 <br /><br />
 
 ### Step number  > 3 :
