@@ -74,10 +74,10 @@ Configuration Tailwindcss Your Project
 
 **2.** Create 2 folder. Folder name ↓
 ```bash
- Output
+ output
 ```
 ```bash
- Src
+ src
  ```
 <br />
  
