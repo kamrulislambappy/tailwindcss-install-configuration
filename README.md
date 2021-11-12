@@ -17,7 +17,7 @@ Install Tailwindcss with the Terminal.
 
 **1.** Install Tailwind CSS. Type in the terminal ↓
 ```bash
- npm install Tailwindcss
+ npm install tailwindcss
 ```
 <br />
 
@@ -47,7 +47,7 @@ Install Tailwindcss with the Terminal.
 
 **6.** Type in the terminal ↓
 ```bash
- npm i -D Tailwindcss
+ npm i -D tailwindcss
  ```
 <br />
 
