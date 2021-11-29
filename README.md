@@ -8,8 +8,12 @@ Follow the description below.
 #### 1. Install Tailwindcss with the Terminal.
 #### 2. Install Tailwindcss Visual Studio Code Extension.
 #### 3. Configuration Tailwindcss Your Project
-
 <br />
+
+### There is no Git Bash Terminal on your PC? <br />
+👉 Download Git bash terminal. Go link : [https://git-scm.com/downloads](https://git-scm.com/downloads) <br />
+👉 Download Hyper terminal. Go link : [https://hyper.is/](https://hyper.is/)
+<br /><br />
 
 ### Step number  > 1 :
 Install Tailwindcss with the Terminal. 
