@@ -1,7 +1,7 @@
 # Tailwindcss install & Configuration
 Follow the description below.
 
-![Logo](https://github.com/kamrulislambappy/image/blob/main/tailwindcss%20install%20&%20configurations.png?raw=true)
+![Logo](https://github.com/kamrulislambappy/all-images/blob/main/tailwindcss%20install%20&%20configurations.png)
 
 ## Install Tailwind CSS by Following 3 Step:
 
